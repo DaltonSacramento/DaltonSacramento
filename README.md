@@ -1,6 +1,6 @@
 ## WELCOME👋
 
-##I'm Dalton D'Angelis Sacramento
+## I'm Dalton D'Angelis Sacramento
 
 :computer: I'm Computer Science student
 
@@ -13,9 +13,9 @@
 ---
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaltonSacramento&theme=tokyonight&show_icons=true"/>
+<img height ="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=DaltonSacramento&theme=tokyonight&show_icons=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonSacramento&layout=compact"/>
+<img height ="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonSacramento&layout=compact"/>
 </div>
 
 ---
