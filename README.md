@@ -9,3 +9,13 @@
 :books: I’m currently learning algoritms and structure of data.
 
 :outbox_tray: 2024 Goals: Enter in Univerdade Federal of Alfenas.
+
+---
+
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaltonSacramento&theme=tokyonight&show_icons=true"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonSacramento&layout=compact"/>
+</div>
+
+---
