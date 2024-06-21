@@ -20,5 +20,5 @@
 ---
 
 <a href="https://www.linkedin.com/in/dalton-d-angelis-sacramento-335334315/">
-<img src="https://devicon.dev/" align="center" heigth="50" width="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
 </a>
