@@ -12,7 +12,7 @@
 ---
 
 <div>
-<img height ="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=DaltonSacramento&theme=tokyonight&show_icons=true"/>
+<img height ="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=DaltonSacramento&theme=buefy&show_icons=true"/>
 
 <img height ="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonSacramento&layout=compact"/>
 </div>
